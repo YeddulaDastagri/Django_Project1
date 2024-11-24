@@ -1,0 +1,7 @@
+{
+    "git.enabled": false,
+    "editor.wordWrap": "off",
+    "git.scanRepositories": [
+        ""
+    ]
+}
